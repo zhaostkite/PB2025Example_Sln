@@ -1,0 +1,5 @@
+﻿global type s_string_withcount from structure
+	long		i_count
+	string		s_string_data
+end type
+

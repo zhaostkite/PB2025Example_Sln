@@ -1,0 +1,6 @@
+﻿global type s_lib_string from structure
+	char		name[256]
+	char		date[30]
+	char		comments[256]
+end type
+

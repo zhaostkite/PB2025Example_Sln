@@ -1,0 +1,8 @@
+﻿global type str_size from structure
+    int x
+    int y
+    int width
+    int height
+    int fontsize
+end type
+
